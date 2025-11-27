@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Temo",
+      "lastName": "Tsutskiridze",
+      "email": "temo@gmail.com",
+      "cart": []
+    },
+    {
+      "id": "59da",
+      "firstName": "Beqa",
+      "lastName": "Maisuradze",
+      "email": "beqamaisuradze@gmail.com",
+      "cart": [
+        {
+          "id": "d147",
+          "name": "PS5",
+          "price": 2500,
+          "category": "console"
+        }
+      ]
+    },
+    {
+      "id": "06c3",
+      "firstName": "Luka",
+      "lastName": "Maisuradze",
+      "email": "lukamaisuradze@gmail.com",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 16 pro max",
+      "price": 4000,
+      "category": "phone"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 13 pro max",
+      "price": 3000,
+      "category": "phone"
+    },
+    {
+      "id": "d147",
+      "name": "PS5",
+      "price": 2500,
+      "category": "console"
+    },
+    {
+      "id": "c147",
+      "name": "PC",
+      "price": 2500,
+      "category": "pc"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": "7ad5",
+      "task": "Learn Programming",
+      "completed": false
+    },
+    {
+      "id": "3243",
+      "task": "Learn Programming",
+      "completed": true
+    },
+    {
+      "id": "5fda",
+      "task": "Learn Programming",
+      "completed": false
+    },
+    {
+      "id": "26e8",
+      "task": "Read a lecture",
+      "completed": false
+    }
+  ],
+  "products": [
+    {
+      "name": "prodcut1",
+      "price": 100
+    }
+  ]
+}
